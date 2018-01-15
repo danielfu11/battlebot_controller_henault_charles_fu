@@ -1,4 +1,4 @@
-# battlebot_controller_henault_charles_fu
+# BattleBot-Controller
 Team: Nathan Henault, Charles Van De Mark, and Guanxiong Fu
 
 Final Project for ECEN 2440: Applications of Embedded Systems 
